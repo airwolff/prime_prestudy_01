@@ -1,3 +1,3 @@
 <script>
-console.log(>p?Hey, this works!!</p>);
+console.log(<p>Hey, this works!!</p>);
 </script>
