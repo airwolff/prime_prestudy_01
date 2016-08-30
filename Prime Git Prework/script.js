@@ -1,6 +1,6 @@
 <script>
 function works() {
-console.log(<p>Hey, this works!!</p>);
+console.log("Hey, this works!!");
 }
 works();
 </script>
